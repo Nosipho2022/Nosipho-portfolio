@@ -92,7 +92,7 @@ Needed to adapt my communication style for better collaboration.
 - Took 16Personalities test (result: **Adventurer ISFP-T**)  
 - Identified weak points in emotional intelligence  
 - Implemented daily stand-up meetings with my group  https://www.16personalities.com/profiles/isfp-t/f/4lyf0783t
-![Personality Test](16personalities-result.png) *[Upload screenshot]*
+![Personality Test](https://www.16personalities.com/profiles/isfp-t/f/4lyf0783t) *[Upload screenshot]*https://1drv.ms/i/c/f770d6ab42ad737e/EY7YBCB2BrlOmyB-MSGnnV8B3Sa-N_nOqwHOOBtsaDNhkg?e=vgKAAS
 ---
 
 ## 📄 CV Optimization Journey (STAR Reflection)
@@ -107,34 +107,32 @@ Create a concise, ATS-friendly CV for IT support roles.
 - Attended CPUT's CV workshop  
 - Used Jobscan.co.za to match keywords  
 - Added metrics (e.g., "Resolved 120+ tickets monthly")
-- 
-[Download My CV](Resume_Nosipho_Nocanda.pdf) *[Upload PDF]*--
+  
 
 **Result**:  
 Landing 5 interview invitations in 2 weeks, including the Advania internship.
 
-**Result**:  
-Improved project coordination and earned 88% for teamwork. Now use personality insights to balance solo coding with team check-ins.
+
 
 ## 🌟 Projects
 ### **E-Commerce Website** *(Web Development)*  
 - Built a user-interactive shopping site using **HTML, CSS, JavaScript**.  
 - Features: Product catalog, cart system, responsive design.  
 
-*(Add more projects here as you complete them!)*  
-
 ---
 
 ## 📜 Certifications & Training
 Certifications
-- Microsoft Certified: Azure Fundamentals (AZ-900) – Issued May 2025
+- Microsoft Certified: Azure Fundamentals (AZ-900) – Issued April 2025
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) – Issued May 2025
-- Microsoft Certified: Azure AI Fundamentals (AI-900) – Issued May 2025
-- Microsoft Certified: Azure Data Fundamentals (DP-900) – Issued May 2025
-- Microsoft Certified: Microsoft 365 Fundamentals (MS-900) – Issued May 2025
+- Microsoft Certified: Azure AI Fundamentals (AI-900) – Issued February 2025
+- Microsoft Certified: Azure Data Fundamentals (DP-900) – Issued April 2025
+- Microsoft Certified: Microsoft 365 Fundamentals (MS-900) – Issued April 2025
 
 
 ---
+  ##CV
+  -CV(Resume_Nosipho Nocanda (1))
   
 
 ---
@@ -142,4 +140,4 @@ Certifications
 ### 🔗 How to Reach Me  
 - **Email**: [nocandancuthu19@gmail.com](mailto:nocandancuthu19@gmail.com)  
 - **Phone**: 063 578 0995  
-- **GitHub**: [YourGitHubLink](#) *(customize later)*  
+- **GitHub**:  https://github.com/Nosipho2022
