@@ -107,7 +107,7 @@ Create a concise, ATS-friendly CV for IT support roles.
 - Attended CPUT's CV workshop  
 - Used Jobscan.co.za to match keywords  
 - Added metrics (e.g., "Resolved 120+ tickets monthly")
-  
+ https://github.com/Nosipho2022/Nosipho-portfolio/blob/main/Resume_Nosipho%20Nocanda%20(1).docx 
 
 **Result**:  
 Landing 5 interview invitations in 2 weeks, including the Advania internship.
@@ -131,11 +131,8 @@ Certifications
 
 
 ---
-  ##CV
-  -CV(Resume_Nosipho Nocanda (1))
+ 
   
-
----
 
 ### 🔗 How to Reach Me  
 - **Email**: [nocandancuthu19@gmail.com](mailto:nocandancuthu19@gmail.com)  
