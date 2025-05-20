@@ -8,12 +8,12 @@ Portfolio
 
 ---
 
-## 🎯 Objective
+##  Objective
 IT student at **Cape Peninsula University of Technology (CPUT)** passionate about cloud computing, network systems, and web development. Seeking to leverage technical skills in a dynamic IT environment while growing professionally.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 | **Area**         | **Skills**                                                                 |
 |------------------|---------------------------------------------------------------------------|
 | **Programming**  | HTML, CSS, JavaScript                                                     |
@@ -24,7 +24,7 @@ IT student at **Cape Peninsula University of Technology (CPUT)** passionate abou
 
 ---
 
-## 🎓 Education
+##  Education
 ### **Cape Peninsula University of Technology (CPUT)**
 - **Diploma in ICT (Communication Networks)** *(Jan 2023 – Nov 2025)*  
   *Relevant coursework: Network Systems, Programming, Web Dev, Database Management*  
@@ -35,16 +35,16 @@ IT student at **Cape Peninsula University of Technology (CPUT)** passionate abou
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 ### **Support Desk Intern** @ [Advania](https://www.advania.com/) *(Oct 2024 – Present)*  
-📍 Cape Town  
+ Cape Town  
 - Provided **technical support** via phone, email, and chat.  
 - Troubleshot hardware/software issues and managed **ticket lifecycles**.  
 - Documented support requests using ticketing systems (e.g., Jira/ServiceNow).  
 - Collaborated with senior staff to resolve complex IT issues.  
 
 ---
-## 🎯 Career Development (STAR Reflection)
+##  Career Development (STAR Reflection)
 
 **Situation**:  
 As a first-year IT student, I was unsure whether to specialize in networking or web development. Both fields interested me, but I lacked clarity about career paths in Cape Town's job market.
@@ -59,7 +59,7 @@ I needed to make an informed decision about my specialization to align my course
 
 ---
 
-## 💻 Technical Skills Evolution (STAR Reflection)
+## Technical Skills Evolution (STAR Reflection)
 
 **Situation**:  
 During my 2024 Advania internship, our team received 50+ daily tickets about Linux server errors, but I only had basic command-line knowledge.
@@ -80,7 +80,7 @@ Reduced my average ticket resolution time from 2 hours to 35 minutes within 3 we
 **Result**:  
 Discovered high demand for cloud networking skills in South Africa. Adjusted my diploma electives to focus on AWS and Cisco certifications. Now actively participating in CPUT's Network Club.
 ---
-## 🧠 Personality & Work Style (STAR Reflection)
+##  Personality & Work Style (STAR Reflection)
 
 **Situation**:  
 Team conflicts arose during a 2024 web development project because I preferred working independently.
@@ -95,7 +95,7 @@ Needed to adapt my communication style for better collaboration.
 ![Personality Test](https://www.16personalities.com/profiles/isfp-t/f/4lyf0783t) (https://1drv.ms/i/c/f770d6ab42ad737e/EY7YBCB2BrlOmyB-MSGnnV8B3Sa-N_nOqwHOOBtsaDNhkg?e=vgKAAS)
 ---
 
-## 📄 CV Optimization Journey (STAR Reflection)
+##  CV Optimization Journey (STAR Reflection)
 
 **Situation**:  
 My initial CV listed skills generically (e.g., "good at computers") and was 3 pages long.
@@ -114,14 +114,14 @@ Landing 5 interview invitations in 2 weeks, including the Advania internship.
 
 
 
-## 🌟 Projects
+##  Projects
 ### **E-Commerce Website** *(Web Development)*  
 - Built a user-interactive shopping site using **HTML, CSS, JavaScript**.  
 - Features: Product catalog, cart system, responsive design.  
 
 ---
 
-## 📜 Certifications & Training
+##  Certifications & Training
 Certifications
 - Microsoft Certified: Azure Fundamentals (AZ-900) – Issued April 2025
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) – Issued May 2025
@@ -134,7 +134,7 @@ Certifications
  
   
 
-### 🔗 How to Reach Me  
+###  How to Reach Me  
 - **Email**: [nocandancuthu19@gmail.com](mailto:nocandancuthu19@gmail.com)  
 - **Phone**: 063 578 0995  
 - **GitHub**:  https://github.com/Nosipho2022
