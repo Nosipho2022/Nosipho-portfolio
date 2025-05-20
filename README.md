@@ -92,7 +92,7 @@ Needed to adapt my communication style for better collaboration.
 - Took 16Personalities test (result: **Adventurer ISFP-T**)  
 - Identified weak points in emotional intelligence  
 - Implemented daily stand-up meetings with my group  https://www.16personalities.com/profiles/isfp-t/f/4lyf0783t
-![Personality Test](https://www.16personalities.com/profiles/isfp-t/f/4lyf0783t) *[Upload screenshot]*https://1drv.ms/i/c/f770d6ab42ad737e/EY7YBCB2BrlOmyB-MSGnnV8B3Sa-N_nOqwHOOBtsaDNhkg?e=vgKAAS
+![Personality Test](https://www.16personalities.com/profiles/isfp-t/f/4lyf0783t) (https://1drv.ms/i/c/f770d6ab42ad737e/EY7YBCB2BrlOmyB-MSGnnV8B3Sa-N_nOqwHOOBtsaDNhkg?e=vgKAAS)
 ---
 
 ## 📄 CV Optimization Journey (STAR Reflection)
@@ -107,7 +107,7 @@ Create a concise, ATS-friendly CV for IT support roles.
 - Attended CPUT's CV workshop  
 - Used Jobscan.co.za to match keywords  
 - Added metrics (e.g., "Resolved 120+ tickets monthly")
- https://github.com/Nosipho2022/Nosipho-portfolio/blob/main/Resume_Nosipho%20Nocanda%20(1).docx 
+- https://github.com/Nosipho2022/Nosipho-portfolio/blob/main/Resume_Nosipho%20Nocanda%20(1).docx 
 
 **Result**:  
 Landing 5 interview invitations in 2 weeks, including the Advania internship.
