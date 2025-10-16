@@ -130,18 +130,19 @@ Certifications
 - Microsoft Certified: Microsoft 365 Fundamentals (MS-900) – Issued April 2025
 
 
-## 🗂 Work Readiness Competencies (Rubric Sections)
+##  Work Readiness Competencies
 
 ### 🗣️ Business Communication
 
 ####  Evidence 
-![Alt Text](https://link-to-image.com/image.jpg)
+
+<img width="771" height="265" alt="Screenshot 2025-10-16 103706" src="https://github.com/user-attachments/assets/463ae5a2-45cf-4006-bc9a-cf271420c9fb" />
 
 - Wrote and formatted a professional email using appropriate workplace language.  
 - Composed a formal business letter as part of the communication exercise.  
 - Participated in team discussions demonstrating clear and respectful communication.
 
-#### 💭 Reflection – STAR Technique (10%)
+#### 💭 Reflection – STAR Technique
 **Situation:** I was tasked with writing a business email to a mock client.  
 **Task:** Communicate effectively while maintaining professionalism.  
 **Action:** I used clear language, structured my email logically, and proofread before sending.  
@@ -151,14 +152,15 @@ Certifications
 
 ### 💬 Interview Skills
 
-####Evidence 
-![Alt Text](https://link-to-image.com/image.jpg)
+#### Evidence 
+
+<img width="779" height="244" alt="Screenshot 2025-10-16 103751" src="https://github.com/user-attachments/assets/9ff5af3a-db41-4c95-9cf1-f4fe5ab06f66" />
 
 - Completed interview skills workshops.  
 - Practiced behavioral questions using the STAR method.  
 - Received feedback on communication style and body language.  
 
-#### 💭 Reflection – STAR Technique (10%)
+#### 💭 Reflection – STAR Technique
 **Situation:** I often felt nervous before interviews.  
 **Task:** Strengthen my confidence and response structure.  
 **Action:** Practiced answering questions in front of peers using STAR (Situation, Task, Action, Result).  
@@ -173,7 +175,7 @@ Certifications
 - Received structured feedback and scoring from the assessor.  
 - Reviewed performance to identify improvement areas.
 
-#### 💭 Reflection – STAR Technique (10%)
+#### 💭 Reflection – STAR Technique 
 **Situation:** During the mock interview, I had to describe how I deal with workplace conflict.  
 **Task:** Demonstrate composure, professionalism, and communication skills.  
 **Action:** Used the STAR method to give a detailed real-life example.  
@@ -184,13 +186,14 @@ Certifications
 ### 🌐 Professional Networking
 
 #### Evidence 
-![Alt Text](https://link-to-image.com/image.jpg)
+
+<img width="763" height="218" alt="Screenshot 2025-10-16 103835" src="https://github.com/user-attachments/assets/c1a78f46-0dbd-4263-971f-c7e2e39ac79b" />
 
 - Created a professional LinkedIn profile.  
 - Joined groups relevant to technology and digital skills.  
 - Attended a virtual networking session.
 
-#### 💭 Reflection – STAR Technique (10%)
+#### 💭 Reflection – STAR Technique 
 **Situation:** Before training, I had limited networking knowledge.  
 **Task:** Build a strong online professional identity.  
 **Action:** Optimized my LinkedIn profile, connected with peers, and shared insights about technology and career growth.  
@@ -198,16 +201,17 @@ Certifications
 
 ---
 
-### 🤝 Workplace Etiquette
+###  Workplace Etiquette
 
 #### Evidence
-![Alt Text](https://link-to-image.com/image.jpg)
+
+<img width="762" height="216" alt="Screenshot 2025-10-16 103858" src="https://github.com/user-attachments/assets/82454734-6505-4705-a878-1b22ec16e768" />
 
 - Completed workplace etiquette and ethics module.  
 - Practiced punctuality, teamwork, and professional conduct in group projects.  
 - Demonstrated respect, accountability, and responsibility in all interactions.
 
-#### 💭 Reflection – STAR Technique (10%)
+#### 💭 Reflection – STAR Technique 
 **Situation:** A team member frequently missed meetings during a project.  
 **Task:** Resolve the issue respectfully without creating conflict.  
 **Action:** I spoke privately with the member, offered help, and reorganized our schedule to accommodate everyone.  
